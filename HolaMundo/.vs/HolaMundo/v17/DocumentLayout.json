@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\HolaMundo\\HolaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E710027D-B2EB-5EA0-69DE-D25EED48D203}|Assembly-CSharp.csproj|e:\\unity\\holamundo\\holamundo\\assets\\script\\codiguito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E710027D-B2EB-5EA0-69DE-D25EED48D203}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\codiguito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codiguito.cs",
+              "DocumentMoniker": "E:\\Unity\\HolaMundo\\HolaMundo\\Assets\\Script\\Codiguito.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Codiguito.cs",
+              "ToolTip": "E:\\Unity\\HolaMundo\\HolaMundo\\Assets\\Script\\Codiguito.cs",
+              "RelativeToolTip": "Assets\\Script\\Codiguito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:59:25.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
